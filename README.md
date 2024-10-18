@@ -13,7 +13,7 @@ A Java application to calculate Value at Risk (VaR) for single trades and portfo
 **Installation:**
 
 1. **Clone the repository:** </br>
-git clone <https://github.com/TommyMallia/test-varcalculator-activeviam>
+git clone <https://github.com/TommyMallia/test-varcalculator-activeviam.git>
 
 2. **Build the project:** </br>
 cd var-calculator </br>
